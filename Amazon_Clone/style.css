@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url("logo.png");
+    background-image: url("images/logo.png");
     height: 50px;
     width: 100%;
     background-size: cover;
@@ -138,7 +138,7 @@ span{
 
 /** Hero-section **/
 .hero-section{
-    background-image: url("back.png");
+    background-image: url("images/back.png");
     height: 350px;
     background-size: cover;
     display: flex;
@@ -263,7 +263,7 @@ ul a{
 }
 
 .logo{
-    background-image: url("logo.png");
+    background-image: url("images/logo.png");
     height: 50px;
     background-size: cover;
     width: 100px;
